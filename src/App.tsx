@@ -30,13 +30,13 @@ export const App = () => {
         </p>
         <ul>
           <li>
-            <a href="https://youtu.be/vI0QArPnkUc" target="_blank">
-              Tutorial (YouTube video)
+            <a href="https://vennar456@gmail.com/vI0QArPnkUc" target="_blank">
+              Tutorial (Madhu)
             </a>
           </li>
           <li>
             <a
-              href="https://github.com/mateuszsokola/2048-in-react/"
+              href="https://github.com/Venn1991/2048-in-react/"
               target="_blank"
             >
               Source Code (Github)
@@ -44,7 +44,7 @@ export const App = () => {
           </li>
           <li>
             <a
-              href="https://mateuszsokola.github.io/2048-animation-examples/"
+              href="https://Venn1991.github.io/2048-animation-examples/"
               target="_blank"
             >
               Animation Examples (Github Pages)
@@ -61,10 +61,10 @@ export const App = () => {
       <div className="footer">
         Made with ❤️ by{" "}
         <a
-          href="https://www.youtube.com/channel/UCJV16_5c4A0amyBZSI4yP6A"
+          href="https://vennar456@gmail.com/UCJV16_5c4A0amyBZSI4yP6A"
           target="_blank"
         >
-          Matt Sokola
+          madhukar reddy Venna
         </a>
       </div>
     </div>
